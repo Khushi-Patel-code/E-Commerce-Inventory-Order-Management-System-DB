@@ -55,7 +55,6 @@ The database supports key e-commerce operations including:
 ```
 
 ## 🧱 Database Design Summary  
-
 #### **Core Entities**
 - **Users & Roles:** For managing admins, staff, and customers.  
 - **Customers & Suppliers:** For maintaining business relationships and logistics.  
@@ -65,8 +64,7 @@ The database supports key e-commerce operations including:
 - **Reviews:** Allows users to rate and comment on purchased products.
 
 
-### ⚙️ Key Features  
-
+## ⚙️ Key Features  
 - **Normalized relational schema (3NF)** to avoid redundancy  
 - **Foreign key constraints** for maintaining data integrity  
 - **Triggers** for automatic inventory updates upon order changes  
@@ -75,7 +73,7 @@ The database supports key e-commerce operations including:
 - **Many-to-many** product-supplier relationship table  
 - **Timestamps & audit trails** for all key activities
 
-### Diagrams
+## Diagrams
 <img width="1333" height="1697" alt="image" src="https://github.com/user-attachments/assets/cc9cd3fe-16b7-43f4-bd12-eab820ab30b7" />
 EER Diagram
 
@@ -90,7 +88,6 @@ ER Conceptual Diagram
 Schema Diagram
 
 ## 🧑‍🎓 Authors
-
 - Khushi Patel
 - Prabhnoor Saini
 - Jaydem Mallari
@@ -102,7 +99,6 @@ Term: Fall 2025
 Purpose: Academic project submission
 
 ## 📜 License
-
 *This repository is for educational use only and not intended for commercial purposes.*
 
 
