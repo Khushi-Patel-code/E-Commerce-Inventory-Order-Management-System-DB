@@ -1,0 +1,9 @@
+user_id,username,email,password_hash,role_id,created_at,last_login,is_active
+1,rabab.raza,rabab.raza@example.com,$2b$12$Tg9j4xwF8Qa1qkXH.8N6DeXfTzB1plrHCuEqS8F5Mpa9o0zYVvV1O,1,"2025-10-01 09:15:00","2025-10-25 11:42:00",1
+2,prabhnoor.saini,prabhnoor.saini@example.com,$2b$10$P4f1Qe3zM7lYqN5KjR9n0u1WcDxv2ErX6OaK7YcRf9tW1UpB9sPJe,1,"2025-09-20 14:30:00","2025-10-29 08:50:00",1
+3,khushi.patel,khushi.patel@example.com,$2a$12$kH8FvE5D2lM9xR1TqC3nZeB8JdH4qPpW7zGmYhUeJr2sM0aXoTtKe,1,"2025-09-10 10:00:00","2025-10-30 19:25:00",1
+4,jayden.mallari,jayden.mallari@example.com,$2b$10$V5zXfQ8LkU1pE2sO9wHnZaL3qTjU4cNbD5mYiHuPjW9rG3vXkR2tC,1,"2025-10-05 12:10:00","2025-10-31 17:45:00",1
+5,emily.fernandez,emily.fernandez@example.com,$2y$10$R9eS8uXfC2qJ4lO6vM1dNhG5wTtZrH8pYjXbN2mLcV3qF9rEoA6uL,2,"2025-08-25 15:40:00","2025-10-26 16:00:00",1
+6,daniel.cho,daniel.cho@example.com,$2a$12$B7mH2cR9nP5jK8uT1xQeFwV2oDzL6rA9gS3yHfE4wM8bJ2sNcPzVh,2,"2025-09-15 09:00:00","2025-10-20 13:10:00",1
+7,sofia.kim,sofia.kim@example.com,$2b$10$E6pQvX9yT2nM3rL8sJ5kUoC4hD7bF1aG9tHqP5mW6zN2xV4eR1jS,2,"2025-07-18 16:25:00","2025-10-28 18:30:00",1
+8,aarav.shah,aarav.shah@example.com,$2b$12$K9xW3qL1eT8mV5oH2pR7uF4zN6dC3aG8yJ1kS0bD5wE9nZ4sT7cU,2,"2025-10-10 20:45:00","2025-10-30 21:05:00",1

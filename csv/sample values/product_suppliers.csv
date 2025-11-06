@@ -1,0 +1,11 @@
+product_id,supplier_id,supplier_sku,lead_time_days,min_order_qty
+1,1,TN-ELEC001-S23,7,20
+2,9,NG-MAC-M2,10,10
+3,4,PP-SONY-XM5,5,30
+4,5,UW-JEANS-SLIM,6,50
+7,3,GL-BEAU001,5,80
+14,2,HE-FUR002,12,15
+15,2,HE-FUR003,14,5
+16,3,GL-FOOD001,4,100
+19,7,PT-FIT001,8,40
+21,4,PP-OFF001,3,60
