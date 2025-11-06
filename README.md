@@ -89,7 +89,7 @@ Schema Diagram
 ## 🧑‍🎓 Authors
 - Khushi Patel
 - Prabhnoor Saini
-- Jaydem Mallari
+- Jayden Mallari
 - Rabab Raza
 
 Course: Database Management Systems (DBMS)   
