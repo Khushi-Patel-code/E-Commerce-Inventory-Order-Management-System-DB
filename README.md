@@ -59,10 +59,12 @@ The database supports key e-commerce operations including:
 <img width="1333" height="1697" alt="image" src="https://github.com/user-attachments/assets/cc9cd3fe-16b7-43f4-bd12-eab820ab30b7" />
 EER Diagram
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="1574" height="1676" alt="image" src="https://github.com/user-attachments/assets/c9b7b2b7-3dd1-4e50-8ce4-f090b3e8bc80" />
 ER Conceptual Diagram
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="1164" height="1646" alt="image" src="https://github.com/user-attachments/assets/6695d59c-5f10-4367-b9f2-0e3bd49b6e81" />
 Schema Diagram
