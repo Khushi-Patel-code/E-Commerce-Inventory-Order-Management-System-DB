@@ -92,10 +92,10 @@ Schema Diagram
 - Jaydem Mallari
 - Rabab Raza
 
-Course: Database Management Systems (DBMS)
-Institution: Ontario Tech University
-Term: Fall 2025
-Purpose: Academic project submission
+Course: Database Management Systems (DBMS)   
+Institution: Ontario Tech University  
+Term: Fall 2025  
+Purpose: Academic project submission  
 
 ## 📜 License
 *This repository is for educational use only and not intended for commercial purposes.*
