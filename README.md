@@ -1,8 +1,7 @@
 # 🛍️ E-Commerce Inventory & Order Management System  
 
 ## 📘 Overview  
-This project implements a **Relational Database Schema** for a complete **E-Commerce Inventory & Order Management System**.  
-It is designed to efficiently manage **users, customers, suppliers, products, orders, inventory, payments**, and more, following **database normalization** and **referential integrity** principles.
+This project implements a **Relational Database Schema** for a complete **E-Commerce Inventory & Order Management System**. It is designed to efficiently manage **users, customers, suppliers, products, orders, inventory, payments**, and more, following **database normalization** and **referential integrity** principles.
 
 The database supports key e-commerce operations including:
 - Product and supplier management  
